@@ -2,6 +2,10 @@
 
 支持本地Ollama Vision模型
 
+**Note** : We recommend using the latest qwen2.5vl model, as it delivers excellent results 🥰👍
+![image](https://github.com/user-attachments/assets/091a2f28-e492-44a7-bdcd-b264ba5fc69a)
+
+
 ### 模型安装
 推荐使用minicpm-v或llava-llama3模型，以minicpm-v为佳
 ```
