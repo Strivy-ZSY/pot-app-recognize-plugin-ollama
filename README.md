@@ -2,6 +2,7 @@
 
 支持本地Ollama Vision模型
 
+2025/10/29 Update ： 推荐您使用qwen3vl模型，您可以在ollama官网下载，同时，您也可以使用ollama cloud模型😊
 **Note** : We recommend using the latest qwen2.5vl model, as it delivers excellent results 🥰👍
 ![image](https://github.com/user-attachments/assets/091a2f28-e492-44a7-bdcd-b264ba5fc69a)
 
