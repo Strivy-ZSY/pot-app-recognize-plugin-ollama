@@ -51,6 +51,7 @@ async function recognize(base64, lang, options) {
     };
 
     // 打印请求信息以便调试
+    console.log("Request URL:", requestPath);
     console.log("Request Body:", JSON.stringify(body, null, 2));
     console.log("Request Headers:", headers);
 
@@ -74,6 +75,6 @@ async function recognize(base64, lang, options) {
         }
     } catch (error) {
         console.error("Request failed:", error);
-        throw new Error(`Request failed: ${error.message}`);
+        throw new Error(`Request failed: ${error.message}\nURL: ${requestPath}`);
     }
 }

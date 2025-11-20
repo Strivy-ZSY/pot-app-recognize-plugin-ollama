@@ -6,6 +6,11 @@
   "homepage": "https://github.com/Strivy-ZSY/pot-app-recognize-plugin-ollama",
   "needs": [
     {
+      "key": "requestPath",
+      "display": "请求地址",
+      "type": "input"
+    },
+    {
       "key": "model",
       "display": "模型",
       "type": "input"
