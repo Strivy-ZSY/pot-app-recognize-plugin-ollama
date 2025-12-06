@@ -36,7 +36,7 @@ If there are mathematical formulas in the diagram, convert them into LaTeX expre
 ### 注意
 ~~由于本地OCR模型识别能力有限，图片识别截图时，请不要**过长或过宽**，以免发生传输问题，后续可能会修复，请谅解🥺~~
 
-qwen3模型已无此问题🥰
+qwen3vl模型已无此问题🥰
 <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/03141dae-a495-4f71-8737-19930d3bdd8d" />
 
 
