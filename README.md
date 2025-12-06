@@ -22,7 +22,10 @@ ollama run minicpm-v
 ```
 自定义Prompt(推荐)：The extracted text does not need to analyze its title and body, ignore the corresponding icon, do not guess the meaning of the text, and only output the corresponding recognized content
 ```
-**可选**：如果您使用其识别数学公式🙂，可以在上述提示词后再加一句：`If there are mathematical formulas in the diagram, convert them into LaTeX expressions.`
+**可选**：如果您使用其识别数学公式🙂，可以在上述提示词后再加一句：
+```
+If there are mathematical formulas in the diagram, convert them into LaTeX expressions.
+```
 <img width="2143" height="588" alt="d1822b2673243a09cfa460c82105ecad" src="https://github.com/user-attachments/assets/100d2ca8-eef3-4a35-9921-93e8db26c6f4" />
 
 
@@ -31,7 +34,11 @@ ollama run minicpm-v
 ![image](https://github.com/user-attachments/assets/22733699-6523-4394-9ecd-e99f2c1f6991)
 
 ### 注意
-由于本地OCR模型识别能力有限，图片识别截图时，请不要**过长或过宽**，以免发生传输问题，后续可能会修复，请谅解🥺
+~~由于本地OCR模型识别能力有限，图片识别截图时，请不要**过长或过宽**，以免发生传输问题，后续可能会修复，请谅解🥺~~
+
+qwen3模型已无此问题🥰
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/03141dae-a495-4f71-8737-19930d3bdd8d" />
+
 
 ### 支持
 如有问题或建议，欢迎在GitHub提交issue反馈
