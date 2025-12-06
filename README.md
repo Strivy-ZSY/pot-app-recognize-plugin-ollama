@@ -22,6 +22,10 @@ ollama run minicpm-v
 ```
 自定义Prompt(推荐)：The extracted text does not need to analyze its title and body, ignore the corresponding icon, do not guess the meaning of the text, and only output the corresponding recognized content
 ```
+**可选**：如果您使用其识别数学公式🙂，可以在上述提示词后再加一句：`If there are mathematical formulas in the diagram, convert them into LaTeX expressions.`
+<img width="2143" height="588" alt="d1822b2673243a09cfa460c82105ecad" src="https://github.com/user-attachments/assets/100d2ca8-eef3-4a35-9921-93e8db26c6f4" />
+
+
 ### 预览
 ![image](https://github.com/user-attachments/assets/7ca865ce-5dd4-468e-a527-42c37e5dcb25)
 ![image](https://github.com/user-attachments/assets/22733699-6523-4394-9ecd-e99f2c1f6991)
