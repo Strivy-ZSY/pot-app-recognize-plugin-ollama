@@ -12,10 +12,14 @@ cloud模型会快很多：
 
 
 ### 模型安装
-推荐使用minicpm-v或llava-llama3模型，以minicpm-v为佳
+~~推荐使用minicpm-v或llava-llama3模型，以minicpm-v为佳~~
+
+(**2025/12/13**)：推荐使用ministral-3和qwen3-vl，以qwen3-vl为佳。
+ministral-3虽在官方测试中优于qwen3-vl，但推理速度稍慢。
+qwen3-vl分为thinking和instruct，instruct无思考，平时instruct够用，在速度和准确率上较为平衡
+
 ```
-ollama run llava-llama3
-ollama run minicpm-v
+ollama run qwen3-vl:8b-instruct
 ```
 
 ### 其余配置
