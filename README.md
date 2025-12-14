@@ -7,7 +7,7 @@ cloud模型会快很多：
 <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/76f666a6-effd-4307-afd2-32aa0b21b08b" />
 
 
-**Note** : We recommend using the latest qwen2.5vl model, as it delivers excellent results 🥰👍
+~~**Note** : We recommend using the latest qwen2.5vl model, as it delivers excellent results 🥰👍~~
 ![image](https://github.com/user-attachments/assets/091a2f28-e492-44a7-bdcd-b264ba5fc69a)
 
 
