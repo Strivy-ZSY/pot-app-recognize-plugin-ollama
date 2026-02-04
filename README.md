@@ -3,6 +3,7 @@
 支持本地Ollama Vision模型
 
 **2026/02/04 Update** ：推荐您使用昨日发布的glm-ocr模型，很不错🙂
+<img width="1376" height="780" alt="image" src="https://github.com/user-attachments/assets/28b5be34-f282-4c91-8a58-3ccf3eee3729" />
 
 ~~**2025/10/29 Update** ： 推荐您使用qwen3vl模型，您可以在ollama官网下载，同时，您也可以使用ollama qwen3vl cloud模型😊~~
 cloud模型会快很多：
