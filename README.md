@@ -2,7 +2,7 @@
 
 支持本地Ollama Vision模型
 
-**2026/03/03 Update**：ollama的glm-ocr目前无法正常使用，可以先用别的模型，等待官方修复，👉[相关讨论](https://github.com/ollama/ollama/issues/14474)，或者如果您没有进一步下载最新的其他模型，也可将ollama回退至[v0.16.3](https://github.com/ollama/ollama/releases/tag/v0.16.3)，`0.17.6`的版本更新应该会修复，👉相关[PR](https://github.com/ollama/ollama/pull/14584)
+**2026/03/03 Update**：ollama的glm-ocr目前无法正常使用，可以先用别的模型，等待官方修复，👉[相关讨论](https://github.com/ollama/ollama/issues/14474)，或者如果您没有进一步下载最新的其他模型，也可将ollama回退至[v0.17.0](https://github.com/ollama/ollama/releases/tag/v0.17.0)，`v0.17.6`的版本更新应该会修复，👉相关[PR](https://github.com/ollama/ollama/pull/14584)
 
 **2026/02/04 Update** ：推荐您使用昨日发布的glm-ocr模型，很不错🙂
 <img width="1376" height="780" alt="image" src="https://github.com/user-attachments/assets/28b5be34-f282-4c91-8a58-3ccf3eee3729" />
