@@ -3,6 +3,7 @@
 支持本地Ollama Vision模型
 
 **2026/03/04 Update**：针对glm-ocr无法使用的问题，我提供了特供版，您可以从[此处](https://github.com/Strivy-ZSY/pot-app-recognize-plugin-ollama/releases/tag/v0.0.3-ss)下载🤗
+同时，`maternion/LightOnOCR-2`也不错，从ollama下载后，在特供版插件可使用🤗
 
 ~~**2026/03/03 Update**：ollama的glm-ocr目前无法正常使用，可以先用别的模型，等待官方修复，👉[相关讨论](https://github.com/ollama/ollama/issues/14474)，或者如果您没有进一步下载最新的其他模型，也可将ollama回退至[v0.17.0](https://github.com/ollama/ollama/releases/tag/v0.17.0)，`v0.17.6`的版本更新应该会修复，👉相关[PR](https://github.com/ollama/ollama/pull/14584)~~
 
