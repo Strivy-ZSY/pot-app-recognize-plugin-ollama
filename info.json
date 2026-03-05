@@ -8,7 +8,8 @@
     {
       "key": "requestPath",
       "display": "请求地址",
-      "type": "input"
+      "type": "input",
+      "default": "http://localhost:11434"
     },
     {
       "key": "model",
@@ -18,7 +19,19 @@
     {
       "key": "customPrompt",
       "display": "自定义 Prompt",
-      "type": "input"
+      "type": "input",
+      "default": "Just recognize the text in the image. Do not offer unnecessary explanations."
+    },
+    {
+      "key": "thinkMode",
+      "display": "思考模式",
+      "type": "select",
+      "default": "disable",
+      "options": {
+        "normal": "正常显示",
+        "hide": "隐藏思考",
+        "disable": "关闭思考"
+      }
     }
   ],
   "language": {
